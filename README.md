@@ -5,7 +5,7 @@
 </p>
   
 <p align="center">
-FRAMEWORKS & TECHNOLOGIES:
+### FRAMEWORKS & TECHNOLOGIES:
 </p>
 <p align="center">
   <a href="https://www.cplusplus.com" target="_blank"><img alt="C++" height="42px" width="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c++/c++.svg"></a>
