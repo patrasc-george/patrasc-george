@@ -1,12 +1,11 @@
 <h1 align="center"><b>Hi , I'm George Patrasc</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<a href='https://www.linkedin.com/in/ferencz-carnu/'><img align='left' alt="linkedin" src="./assets/linkedin.svg" height='24px'/></a>
 </br></br>
 I am a first-year Master's student and a recent graduate in Computer Science, eager to apply the knowledge gained during my studies.
   
 ### FRAMEWORKS & TECHNOLOGIES:
 <a href="https://www.cplusplus.com" target="_blank"><img align="left" alt="C++" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c++/c++.svg"></a>
 
-<a href="https://opencv.org/" target="_blank"> <img src="https://github.com/opencv/opencv/wiki/logo/OpenCV_logo_no_text.png" align="left" alt="OpenCV" height='42px'/> </a>
+<img src="https://github.com/opencv/opencv/wiki/logo/OpenCV_logo_no_text.png" align="left" alt="OpenCV" height='42px'/> </a>
 
 <a href="https://qt.io" target="_blank"><img align="left" alt="Qt" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" width="40px"></a>
 
