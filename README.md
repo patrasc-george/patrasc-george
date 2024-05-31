@@ -3,7 +3,7 @@
 <p align="center">
   I am a first-year Master's student and a recent Bachelor's graduate in Computer Science.
 </p>
-</br>
+</br></br>
 <p align="center">
 I usually use:
 </p>
