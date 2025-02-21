@@ -12,7 +12,7 @@ I usually use:
     <a href="https://qt.io" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/640px-Qt_logo_2016.svg.png" alt="Qt" height="42px"></a>
     <a href="https://www.cplusplus.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="C++" height="42px"></a>
     <a href="https://opencv.org/" target="_blank"><img src="https://github.com/opencv/opencv/wiki/logo/OpenCV_logo_no_text.png" alt="OpenCV" height="42px"></a>
-    <a href="https://cmake.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cmake.svg/2048px-Cmake.svg.png" alt="CMake" height="42px"></a>
+    <a href="https://cmake.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/CMake_logo.svg/640px-CMake_logo.svg.png" alt="CMake" height="42px"></a>
 </p>
 </br></br>
 <p align="center">
