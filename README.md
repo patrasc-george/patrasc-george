@@ -11,31 +11,31 @@
 
 <p align="center">
   <a href="https://www.python.org/" target="_blank">
-    <img src="images/1.png" alt="Python" style="height: 48px; width: auto; margin: 0 14px; vertical-align: middle; display: inline-block;">
+    <img src="images/1.png" alt="Python" style="height: 48px; width: auto; margin: 0 24px; vertical-align: middle; display: inline-block;">
   </a><!--
   --><a href="https://isocpp.org/" target="_blank">
-    <img src="images/2.png" alt="C++" style="height: 48px; width: auto; margin: 0 14px; vertical-align: middle; display: inline-block;">
+    <img src="images/2.png" alt="C++" style="height: 48px; width: auto; margin: 0 24px; vertical-align: middle; display: inline-block;">
   </a><!--
   --><a href="https://opencv.org/" target="_blank">
-    <img src="images/3.png" alt="OpenCV" style="height: 48px; width: auto; margin: 0 14px; vertical-align: middle; display: inline-block;">
+    <img src="images/3.png" alt="OpenCV" style="height: 48px; width: auto; margin: 0 24px; vertical-align: middle; display: inline-block;">
   </a><!--
   --><a href="https://pytorch.org/" target="_blank">
-    <img src="images/4.png" alt="PyTorch" style="height: 48px; width: auto; margin: 0 14px; vertical-align: middle; display: inline-block;">
+    <img src="images/4.png" alt="PyTorch" style="height: 48px; width: auto; margin: 0 24px; vertical-align: middle; display: inline-block;">
   </a><!--
   --><a href="https://scikit-learn.org/" target="_blank">
-    <img src="images/5.png" alt="scikit-learn" style="height: 48px; width: auto; margin: 0 14px; vertical-align: middle; display: inline-block;">
+    <img src="images/5.png" alt="scikit-learn" style="height: 48px; width: auto; margin: 0 24px; vertical-align: middle; display: inline-block;">
   </a><!--
   --><a href="https://www.qt.io/" target="_blank">
-    <img src="images/6.png" alt="Qt" style="height: 48px; width: auto; margin: 0 14px; vertical-align: middle; display: inline-block;">
+    <img src="images/6.png" alt="Qt" style="height: 48px; width: auto; margin: 0 24px; vertical-align: middle; display: inline-block;">
   </a><!--
   --><a href="https://git-scm.com/" target="_blank">
-    <img src="images/7.png" alt="Git" style="height: 48px; width: auto; margin: 0 14px; vertical-align: middle; display: inline-block;">
+    <img src="images/7.png" alt="Git" style="height: 48px; width: auto; margin: 0 24px; vertical-align: middle; display: inline-block;">
   </a><!--
   --><a href="https://www.docker.com/" target="_blank">
-    <img src="images/8.png" alt="Docker" style="height: 48px; width: auto; margin: 0 14px; vertical-align: middle; display: inline-block;">
+    <img src="images/8.png" alt="Docker" style="height: 48px; width: auto; margin: 0 24px; vertical-align: middle; display: inline-block;">
   </a><!--
   --><a href="https://jupyter.org/" target="_blank">
-    <img src="images/9.png" alt="Jupyter" style="height: 48px; width: auto; margin: 0 14px; vertical-align: middle; display: inline-block;">
+    <img src="images/9.png" alt="Jupyter" style="height: 48px; width: auto; margin: 0 24px; vertical-align: middle; display: inline-block;">
   </a>
 </p>
 
