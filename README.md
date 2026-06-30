@@ -30,9 +30,21 @@
     <img src="images/5.png" alt="scikit-learn" height="52">
   </a>
   &nbsp;&nbsp;
+  <a href="https://numpy.org/" target="_blank">
+    <img src="images/10.png" alt="NumPy" height="52">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="images/11.png" alt="FastAPI" height="52">
+  </a>
+  &nbsp;&nbsp;
   <a href="https://www.qt.io/" target="_blank">
     <img src="images/6.png" alt="Qt" height="52">
   </a>
+  &nbsp;&nbsp;
+  <a href="https://cmake.org/" target="_blank">
+    <img src="images/12.png" alt="CMake" height="52">
+  </a> 
   &nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank">
     <img src="images/7.png" alt="Git" height="52">
